@@ -1,0 +1,38 @@
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Domain\bin\Debug\P.Domain.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Domain\bin\Debug\P.Domain.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Domain\obj\Debug\P.Domain.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Domain\obj\Debug\P.Domain.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\P.Domain\obj\Debug\P.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Domain\bin\Debug\P.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Domain\bin\Debug\P.Domain.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Domain\obj\Debug\P.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Domain\obj\Debug\P.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\P.Domain\obj\Debug\P.Domain.pdb
+C:\Users\bacco\Desktop\PNet-master\P.Domain\bin\Debug\P.Domain.dll.config
+C:\Users\bacco\Desktop\PNet-master\P.Domain\bin\Debug\P.Domain.dll
+C:\Users\bacco\Desktop\PNet-master\P.Domain\bin\Debug\P.Domain.pdb
+C:\Users\bacco\Desktop\PNet-master\P.Domain\bin\Debug\EntityFramework.dll
+C:\Users\bacco\Desktop\PNet-master\P.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bacco\Desktop\PNet-master\P.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bacco\Desktop\PNet-master\P.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bacco\Desktop\PNet-master\P.Domain\bin\Debug\EntityFramework.xml
+C:\Users\bacco\Desktop\PNet-master\P.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bacco\Desktop\PNet-master\P.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bacco\Desktop\PNet-master\P.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bacco\Desktop\PNet-master\P.Domain\obj\Debug\P.Domain.dll
+C:\Users\bacco\Desktop\PNet-master\P.Domain\obj\Debug\P.Domain.pdb
+C:\Users\bacco\Desktop\PNet-master\P.Domain\obj\Debug\P.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\bin\Debug\P.Domain.dll.config
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\bin\Debug\P.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\bin\Debug\P.Domain.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\obj\Debug\P.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\obj\Debug\P.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Domain\obj\Debug\P.Domain.pdb

@@ -1,0 +1,60 @@
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\PService.Pattern.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\PService.Pattern.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\P.Data.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\P.Domain.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\EntityFramework.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\P.Data.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\P.Domain.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\EntityFramework.xml
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\obj\Debug\PService.Pattern.csprojResolveAssemblyReference.cache
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\obj\Debug\PService.Pattern.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\obj\Debug\PService.Pattern.pdb
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\S1\NET\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\MySql.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\PService.Pattern.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\PService.Pattern.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\P.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\P.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\MySql.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\P.Data.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\P.Domain.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\obj\Debug\PService.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\obj\Debug\PService.Pattern.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNET\PService.Pattern\obj\Debug\PService.Pattern.pdb
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\PService.Pattern.dll
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\PService.Pattern.pdb
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\P.Data.dll
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\P.Domain.dll
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\MySql.Data.dll
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\P.Data.pdb
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\P.Domain.pdb
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\obj\Debug\PService.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\obj\Debug\PService.Pattern.dll
+C:\Users\bacco\Desktop\PNet-master\PService.Pattern\obj\Debug\PService.Pattern.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\PService.Pattern.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\PService.Pattern.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\P.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\P.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\MySql.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\P.Data.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\P.Domain.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\obj\Debug\PService.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\obj\Debug\PService.Pattern.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PService.Pattern\obj\Debug\PService.Pattern.pdb
