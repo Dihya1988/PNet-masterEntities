@@ -1,0 +1,77 @@
+﻿@model IEnumerable<P.Domain.Entities.Vehicle>
+
+@{
+    ViewBag.Title = "Vehicles";
+}
+
+<h2>Vehicles</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Registration)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Model)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SeatsNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ValueWhenNew)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ValueWhenVenal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InitTraficDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FiscalPowers.FPower)
+        </th>
+        <th></th>
+    </tr>
+@if (Model != null)
+{
+    foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Registration)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Brand)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SeatsNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ValueWhenNew)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ValueWhenVenal)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InitTraficDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FiscalPowers.FPower)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.IdVehicle }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.IdVehicle })
+        </td>
+    </tr>
+    }
+}
+
+</table>

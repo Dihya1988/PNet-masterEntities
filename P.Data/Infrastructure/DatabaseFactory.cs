@@ -11,13 +11,13 @@ namespace P.Data.Infrastructure
         private ContextPi dataContext;
         public ContextPi DataContext { get { return dataContext; } }
 
-        ContextPi IDatabaseFactory.DataContext
-        {
-            get
-            {
-                throw new NotImplementedException();
-            }
-        }
+       // ContextPi IDatabaseFactory.DataContext
+       // {
+        //    get
+        //    {
+        //        throw new NotImplementedException();
+       //     }
+      // }
 
         public DatabaseFactory()
         {

@@ -104,9 +104,9 @@
     <Compile Include="Infrastructure\IUnitOfWork.cs" />
     <Compile Include="Infrastructure\RepositoryBase.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
-    <Compile Include="Migrations\201806272234532_v1.cs" />
-    <Compile Include="Migrations\201806272234532_v1.Designer.cs">
-      <DependentUpon>201806272234532_v1.cs</DependentUpon>
+    <Compile Include="Migrations\201807020452053_v1.cs" />
+    <Compile Include="Migrations\201807020452053_v1.Designer.cs">
+      <DependentUpon>201807020452053_v1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -127,8 +127,8 @@
     <Folder Include="Conventions\" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201806272234532_v1.resx">
-      <DependentUpon>201806272234532_v1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201807020452053_v1.resx">
+      <DependentUpon>201807020452053_v1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -42,9 +42,15 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ServiceImplementation\AdminServices.cs" />
+    <Compile Include="ServiceImplementation\FiscalPowerService.cs" />
     <Compile Include="ServiceImplementation\UserServices.cs" />
+    <Compile Include="ServiceImplementation\VehicleService.cs" />
+    <Compile Include="ServiceImplementation\WreckReportService.cs" />
     <Compile Include="ServiceInterface\IAdminService.cs" />
+    <Compile Include="ServiceInterface\IFiscalPowerService.cs" />
     <Compile Include="ServiceInterface\IUserService.cs" />
+    <Compile Include="ServiceInterface\IVehicleService.cs" />
+    <Compile Include="ServiceInterface\IWreckReportService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\P.Data\P.Data.csproj">

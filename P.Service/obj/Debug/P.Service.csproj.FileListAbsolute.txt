@@ -66,3 +66,39 @@ C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Service\bin\D
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Service\obj\Debug\P.Service.csprojResolveAssemblyReference.cache
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Service\obj\Debug\P.Service.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\P.Service\obj\Debug\P.Service.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\P.Service.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\P.Service.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\P.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\P.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\PService.Pattern.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\P.Data.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\P.Domain.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\PService.Pattern.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\obj\Debug\P.Service.csprojResolveAssemblyReference.cache
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\obj\Debug\P.Service.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\P.Service\obj\Debug\P.Service.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\P.Service.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\P.Service.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\P.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\P.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\PService.Pattern.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\P.Data.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\P.Domain.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\PService.Pattern.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\obj\Debug\P.Service.csprojResolveAssemblyReference.cache
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\obj\Debug\P.Service.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\obj\Debug\P.Service.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\P.Service\bin\Debug\MySql.Data.dll

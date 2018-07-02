@@ -10,19 +10,13 @@ namespace PService.Pattern
 {
     public abstract class Service<TEntity> : IService<TEntity> where TEntity : class
     {
-        #region Private Fields
-        // private readonly IRepositoryBaseAsync<TEntity> _repository;
-        IUnitOfWork utwk;
-        #endregion Private Fields
 
-        #region Constructor
+        IUnitOfWork utwk;
+
         protected Service(IUnitOfWork utwk)
         {
             this.utwk = utwk;
         }
-        #endregion Constructor
-
-
 
         public virtual void Add(TEntity entity)
         {

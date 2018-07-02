@@ -3,38 +3,73 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
-    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
-    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <title>@ViewBag.Title - Hope Insurance</title>
+    <!--[if lte IE 8]><script src="~/Content/assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="~/Content/assets/css/main.css" />
+    <!--[if lte IE 9]><link rel="stylesheet" href="~/Content/assets/css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="~/Content/assets/css/ie8.css" /><![endif]-->
 </head>
 <body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <header id="header">
+            <h1><a href="index.html">Hope Insurance</a></h1>
+            <nav>
+                <a href="#menu">Menu</a>
+            </nav>
+        </header>
+
+        <!-- Menu -->
+        <nav id="menu">
+            <div class="inner">
+                <h2>Menu</h2>
+                <ul class="links">
+                    <li><a href="index.html">Vehicles</a></li>
+                    <li><a href="generic.html">Folders</a></li>
+                    <li><a href="elements.html">Wreck Reports</a></li>
+                    <li><a href="#">Log In</a></li>
+                    <li><a href="#">Sign Up</a></li>
                 </ul>
+                <a href="#" class="close">Close</a>
             </div>
+        </nav>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <div class="wrapper">
+                        <div class="inner">
+                            @Html.ActionLink("Hope Insurance", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                        </div>
+                        
+                        <div class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav"></ul>
+                        </div>
+                    </div>
+                </div>
+
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </footer>
         </div>
-    </div>
-
-    <div class="container body-content">
-        @RenderBody()
-        <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
-        </footer>
-    </div>
-
-    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
-    <script src="~/Scripts/bootstrap.min.js"></script>
+        </div>
+            </div>
+    <!-- Scripts -->
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="assets/js/main.js"></script>
 </body>
 </html>

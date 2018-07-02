@@ -1,0 +1,52 @@
+﻿@model IEnumerable<P.Domain.Entities.WreckReport>
+
+@{
+    ViewBag.Title = "WreckReports";
+}
+
+<div class="wrapper">
+<div class="inner">
+    <h2>WreckReports</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.WreckValue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Indemnity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vehicle.Registration)
+            </th>
+            <th></th>
+        </tr>
+
+@if (Model != null)
+{
+    foreach (var item in Model)
+    {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WreckValue)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Indemnity)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Vehicle.Registration)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.IdWReport }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.IdWReport })
+                </td>
+            </tr>
+    }
+}
+
+    </table>
+    </div>
+    </div>

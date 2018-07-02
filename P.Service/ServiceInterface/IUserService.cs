@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace P.Service.ServiceInterface
 {
-    interface IUserService : IService<User>
+    public interface IUserService : IService<User>
     {
     }
 }

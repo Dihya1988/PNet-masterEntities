@@ -130,3 +130,135 @@ C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PWeb\bin\System
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PWeb\obj\Debug\PWeb.csprojResolveAssemblyReference.cache
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PWeb\obj\Debug\PWeb.dll
 C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master\PWeb\obj\Debug\PWeb.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\csc.exe
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\vbc.exe
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\PWeb.dll.config
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\PWeb.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\PWeb.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.Owin.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\MySql.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Newtonsoft.Json.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Owin.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\P.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\P.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\P.Service.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\PService.Pattern.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Helpers.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Mvc.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Razor.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Webpages.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\P.Data.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\P.Domain.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\P.Service.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\PService.Pattern.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.Owin.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\Newtonsoft.Json.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Razor.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Webpages.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Helpers.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\bin\System.Web.Mvc.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\obj\Debug\PWeb.csprojResolveAssemblyReference.cache
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\obj\Debug\PWeb.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master - test\PWeb\obj\Debug\PWeb.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\csc.exe
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\vbc.exe
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\PWeb.dll.config
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\PWeb.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\PWeb.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.Owin.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\MySql.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Newtonsoft.Json.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Owin.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\P.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\P.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\P.Service.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\PService.Pattern.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Helpers.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Mvc.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Razor.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Webpages.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\P.Data.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\P.Domain.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\P.Service.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\PService.Pattern.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.Owin.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\Newtonsoft.Json.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Razor.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Webpages.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Helpers.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\bin\System.Web.Mvc.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\obj\Debug\PWeb.csprojResolveAssemblyReference.cache
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\obj\Debug\PWeb.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PNet-master 1\PWeb\obj\Debug\PWeb.pdb
